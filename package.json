@@ -17,15 +17,15 @@
     "lint": "jshint bin/*.js lib/*.js test/*.js; echo"
   },
   "dependencies": {
-    "array-tools": "^1.0.6",
-    "command-line-args": "^0.2.0",
-    "console-dope": "~0.3.2",
-    "file-set": "~0.1",
-    "handlebars": "~2.0",
-    "more-fs": "~0.4.0",
-    "yuidocjs": "~0.3.44"
+    "array-tools": "1.6.x",
+    "command-line-args": "0.5.x",
+    "console-dope": "0.3.x",
+    "file-set": "0.2.x",
+    "handlebars": "3.0.x",
+    "more-fs": "0.5.x",
+    "yuidocjs": "0.6.x"
   },
   "devDependencies": {
-    "mocha": "~1.18.0"
+    "mocha": "2.2.x"
   }
 }
